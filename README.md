@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @flayerbein
+- 👀 I’m interested in python
+- 🌱 I’m currently learning Angular/Javascript
+- 💞️ I’m looking to collaborate on ... actually, no projects right now.
+- 📫 How to reach me: Here. 
